@@ -1,0 +1,378 @@
+[
+  {
+    "id": "core-barbell-bench-press",
+    "zh": "杠铃平板卧推",
+    "frames": [
+      "/frames/core-barbell-bench-press/0.jpg",
+      "/frames/core-barbell-bench-press/1.jpg"
+    ]
+  },
+  {
+    "id": "core-incline-dumbbell-press",
+    "zh": "上斜哑铃卧推",
+    "frames": [
+      "/frames/core-incline-dumbbell-press/0.jpg",
+      "/frames/core-incline-dumbbell-press/1.jpg"
+    ]
+  },
+  {
+    "id": "core-cable-crossover",
+    "zh": "龙门架夹胸",
+    "frames": [
+      "/frames/core-cable-crossover/0.jpg",
+      "/frames/core-cable-crossover/1.jpg"
+    ]
+  },
+  {
+    "id": "core-dumbbell-fly",
+    "zh": "哑铃飞鸟",
+    "frames": [
+      "/frames/core-dumbbell-fly/0.jpg",
+      "/frames/core-dumbbell-fly/1.jpg"
+    ]
+  },
+  {
+    "id": "core-pull-up",
+    "zh": "引体向上",
+    "frames": [
+      "/frames/core-pull-up/0.jpg",
+      "/frames/core-pull-up/1.jpg"
+    ]
+  },
+  {
+    "id": "core-lat-pulldown",
+    "zh": "高位下拉",
+    "frames": [
+      "/frames/core-lat-pulldown/0.jpg",
+      "/frames/core-lat-pulldown/1.jpg"
+    ]
+  },
+  {
+    "id": "core-seated-machine-row",
+    "zh": "坐姿器械划船",
+    "frames": [
+      "/frames/core-seated-machine-row/0.jpg",
+      "/frames/core-seated-machine-row/1.jpg"
+    ]
+  },
+  {
+    "id": "core-barbell-bent-over-row",
+    "zh": "杠铃划船",
+    "frames": [
+      "/frames/core-barbell-bent-over-row/0.jpg",
+      "/frames/core-barbell-bent-over-row/1.jpg"
+    ]
+  },
+  {
+    "id": "core-one-arm-dumbbell-row",
+    "zh": "单臂哑铃划船",
+    "frames": [
+      "/frames/core-one-arm-dumbbell-row/0.jpg",
+      "/frames/core-one-arm-dumbbell-row/1.jpg"
+    ]
+  },
+  {
+    "id": "core-back-extension",
+    "zh": "山羊挺身",
+    "frames": [
+      "/frames/core-back-extension/0.jpg",
+      "/frames/core-back-extension/1.jpg"
+    ]
+  },
+  {
+    "id": "core-barbell-squat",
+    "zh": "杠铃深蹲",
+    "frames": [
+      "/frames/core-barbell-squat/0.jpg",
+      "/frames/core-barbell-squat/1.jpg"
+    ]
+  },
+  {
+    "id": "core-leg-press",
+    "zh": "腿举机",
+    "frames": [
+      "/frames/core-leg-press/0.jpg",
+      "/frames/core-leg-press/1.jpg"
+    ]
+  },
+  {
+    "id": "core-seated-leg-extension",
+    "zh": "坐姿腿屈伸",
+    "frames": [
+      "/frames/core-seated-leg-extension/0.jpg",
+      "/frames/core-seated-leg-extension/1.jpg"
+    ]
+  },
+  {
+    "id": "core-romanian-deadlift",
+    "zh": "罗马尼亚硬拉",
+    "frames": [
+      "/frames/core-romanian-deadlift/0.jpg",
+      "/frames/core-romanian-deadlift/1.jpg"
+    ]
+  },
+  {
+    "id": "core-prone-leg-curl",
+    "zh": "俯卧腿弯举",
+    "frames": [
+      "/frames/core-prone-leg-curl/0.jpg",
+      "/frames/core-prone-leg-curl/1.jpg"
+    ]
+  },
+  {
+    "id": "core-barbell-hip-thrust",
+    "zh": "杠铃臀推",
+    "frames": [
+      "/frames/core-barbell-hip-thrust/0.jpg",
+      "/frames/core-barbell-hip-thrust/1.jpg"
+    ]
+  },
+  {
+    "id": "core-standing-calf-raise",
+    "zh": "站姿器械提踵",
+    "frames": [
+      "/frames/core-standing-calf-raise/0.jpg",
+      "/frames/core-standing-calf-raise/1.jpg"
+    ]
+  },
+  {
+    "id": "core-seated-dumbbell-press",
+    "zh": "坐姿哑铃推举",
+    "frames": [
+      "/frames/core-seated-dumbbell-press/0.jpg",
+      "/frames/core-seated-dumbbell-press/1.jpg"
+    ]
+  },
+  {
+    "id": "core-dumbbell-lateral-raise",
+    "zh": "哑铃侧平举",
+    "frames": [
+      "/frames/core-dumbbell-lateral-raise/0.jpg",
+      "/frames/core-dumbbell-lateral-raise/1.jpg"
+    ]
+  },
+  {
+    "id": "core-reverse-pec-deck",
+    "zh": "蝴蝶机反向飞鸟",
+    "frames": [
+      "/frames/core-reverse-pec-deck/0.jpg",
+      "/frames/core-reverse-pec-deck/1.jpg"
+    ]
+  },
+  {
+    "id": "core-cable-face-pull",
+    "zh": "绳索面拉",
+    "frames": [
+      "/frames/core-cable-face-pull/0.jpg",
+      "/frames/core-cable-face-pull/1.jpg"
+    ]
+  },
+  {
+    "id": "core-barbell-upright-row",
+    "zh": "杠铃直立划船",
+    "frames": [
+      "/frames/core-barbell-upright-row/0.jpg",
+      "/frames/core-barbell-upright-row/1.jpg"
+    ]
+  },
+  {
+    "id": "core-barbell-curl",
+    "zh": "杠铃弯举",
+    "frames": [
+      "/frames/core-barbell-curl/0.jpg",
+      "/frames/core-barbell-curl/1.jpg"
+    ]
+  },
+  {
+    "id": "core-alternating-dumbbell-curl",
+    "zh": "哑铃交替弯举",
+    "frames": [
+      "/frames/core-alternating-dumbbell-curl/0.jpg",
+      "/frames/core-alternating-dumbbell-curl/1.jpg"
+    ]
+  },
+  {
+    "id": "core-cable-pushdown",
+    "zh": "绳索下压",
+    "frames": [
+      "/frames/core-cable-pushdown/0.jpg",
+      "/frames/core-cable-pushdown/1.jpg"
+    ]
+  },
+  {
+    "id": "core-lying-triceps-extension",
+    "zh": "仰卧臂屈伸",
+    "frames": [
+      "/frames/core-lying-triceps-extension/0.jpg",
+      "/frames/core-lying-triceps-extension/1.jpg"
+    ]
+  },
+  {
+    "id": "core-plank",
+    "zh": "平板支撑",
+    "frames": [
+      "/frames/core-plank/0.jpg",
+      "/frames/core-plank/1.jpg"
+    ]
+  },
+  {
+    "id": "core-hanging-leg-raise",
+    "zh": "悬垂举腿",
+    "frames": [
+      "/frames/core-hanging-leg-raise/0.jpg",
+      "/frames/core-hanging-leg-raise/1.jpg"
+    ]
+  },
+  {
+    "id": "core-russian-twist",
+    "zh": "俄罗斯转体",
+    "frames": [
+      "/frames/core-russian-twist/0.jpg",
+      "/frames/core-russian-twist/1.jpg"
+    ]
+  },
+  {
+    "id": "core-dead-bug",
+    "zh": "死虫式",
+    "frames": [
+      "/frames/core-dead-bug/0.jpg",
+      "/frames/core-dead-bug/1.jpg"
+    ]
+  },
+  {
+    "id": "core-pallof-press",
+    "zh": "帕洛夫推",
+    "frames": [
+      "/frames/core-pallof-press/0.jpg",
+      "/frames/core-pallof-press/1.jpg"
+    ]
+  },
+  {
+    "id": "core-single-arm-farmers-carry",
+    "zh": "单臂农夫行走",
+    "frames": [
+      "/frames/core-single-arm-farmers-carry/0.jpg",
+      "/frames/core-single-arm-farmers-carry/1.jpg"
+    ]
+  },
+  {
+    "id": "core-kettlebell-swing",
+    "zh": "壶铃摇摆",
+    "frames": [
+      "/frames/core-kettlebell-swing/0.jpg",
+      "/frames/core-kettlebell-swing/1.jpg"
+    ]
+  },
+  {
+    "id": "core-turkish-get-up",
+    "zh": "土耳其起立",
+    "frames": [
+      "/frames/core-turkish-get-up/0.jpg",
+      "/frames/core-turkish-get-up/1.jpg"
+    ]
+  },
+  {
+    "id": "extra-dumbbell-bench-press",
+    "zh": "哑铃平板卧推",
+    "frames": [
+      "/frames/extra-dumbbell-bench-press/0.jpg",
+      "/frames/extra-dumbbell-bench-press/1.jpg"
+    ]
+  },
+  {
+    "id": "extra-push-up",
+    "zh": "俯卧撑",
+    "frames": [
+      "/frames/extra-push-up/0.jpg",
+      "/frames/extra-push-up/1.jpg"
+    ]
+  },
+  {
+    "id": "extra-close-grip-lat-pulldown",
+    "zh": "窄握高位下拉",
+    "frames": [
+      "/frames/extra-close-grip-lat-pulldown/0.jpg",
+      "/frames/extra-close-grip-lat-pulldown/1.jpg"
+    ]
+  },
+  {
+    "id": "extra-t-bar-row",
+    "zh": "T杠划船",
+    "frames": [
+      "/frames/extra-t-bar-row/0.jpg",
+      "/frames/extra-t-bar-row/1.jpg"
+    ]
+  },
+  {
+    "id": "extra-bulgarian-split-squat",
+    "zh": "保加利亚分腿蹲",
+    "frames": [
+      "/frames/extra-bulgarian-split-squat/0.jpg",
+      "/frames/extra-bulgarian-split-squat/1.jpg"
+    ]
+  },
+  {
+    "id": "extra-hack-squat",
+    "zh": "哈克深蹲",
+    "frames": [
+      "/frames/extra-hack-squat/0.jpg",
+      "/frames/extra-hack-squat/1.jpg"
+    ]
+  },
+  {
+    "id": "extra-seated-leg-curl",
+    "zh": "坐姿腿弯举",
+    "frames": [
+      "/frames/extra-seated-leg-curl/0.jpg",
+      "/frames/extra-seated-leg-curl/1.jpg"
+    ]
+  },
+  {
+    "id": "extra-seated-calf-raise",
+    "zh": "坐姿器械提踵",
+    "frames": [
+      "/frames/extra-seated-calf-raise/0.jpg",
+      "/frames/extra-seated-calf-raise/1.jpg"
+    ]
+  },
+  {
+    "id": "extra-arnold-press",
+    "zh": "阿诺德推举",
+    "frames": [
+      "/frames/extra-arnold-press/0.jpg",
+      "/frames/extra-arnold-press/1.jpg"
+    ]
+  },
+  {
+    "id": "extra-cable-lateral-raise",
+    "zh": "绳索单臂侧平举",
+    "frames": [
+      "/frames/extra-cable-lateral-raise/0.jpg",
+      "/frames/extra-cable-lateral-raise/1.jpg"
+    ]
+  },
+  {
+    "id": "extra-hammer-curl",
+    "zh": "哑铃锤式弯举",
+    "frames": [
+      "/frames/extra-hammer-curl/0.jpg",
+      "/frames/extra-hammer-curl/1.jpg"
+    ]
+  },
+  {
+    "id": "extra-close-grip-bench-press",
+    "zh": "窄握卧推",
+    "frames": [
+      "/frames/extra-close-grip-bench-press/0.jpg",
+      "/frames/extra-close-grip-bench-press/1.jpg"
+    ]
+  },
+  {
+    "id": "extra-cable-crunch",
+    "zh": "绳索卷腹",
+    "frames": [
+      "/frames/extra-cable-crunch/0.jpg",
+      "/frames/extra-cable-crunch/1.jpg"
+    ]
+  }
+]
